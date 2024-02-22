@@ -1,0 +1,29 @@
+{
+    "categories": [
+        {
+            "category": "Blockchain",
+            "image": "/images/categoriesImgs/icon-01.png"
+        },
+        {
+            "category": "Digital Art",
+            "image": "/images/categoriesImgs/icon-02.png"
+        },
+        {
+            "category": "Music Art",
+            "image": "/images/categoriesImgs/icon-03.png"
+        },
+        {
+            "category": "Virtual World",
+            "image": "/images/categoriesImgs/icon-04.png"
+        },
+        {
+            "category": "Valuable",
+            "image": "/images/categoriesImgs/icon-05.png"
+        },
+        {
+            "category": "Triple NFT",
+            "image": "/images/categoriesImgs/icon-06.png"
+        }
+    ],
+    "best_nfts": []
+}
