@@ -18,8 +18,8 @@ const SignUp: React.FC = () => {
         password: '',
         userImg: '',
         countSold: 0,
-        followers: 0,
-        following: 0,
+        followers: [],
+        following: [],
         likes: 0
     });
 
@@ -41,8 +41,8 @@ const SignUp: React.FC = () => {
                 password: newUser.password,
                 userImg: '/images/item.jpg',
                 countSold: 0,
-                followers: 0,
-                following: 0,
+                followers: [],
+                following: [],
                 likes: 0
             };
 
@@ -71,8 +71,8 @@ const SignUp: React.FC = () => {
             password: '',
             userImg: '',
             countSold: 0,
-            followers: 0,
-            following: 0,
+            followers: [],
+            following: [],
             likes: 0
         });
     };
